@@ -1,1 +1,1 @@
-# ResumeDAE
+Materi mencakup definisi Data Analytics, ekosistem data, teknik pengumpulan & persiapan data, penambangan & visualisasi, kualitas & privasi data, serta pemrosesan dengan spreadsheet, Pivot Table/Chart, dan Exploratory Data Analysis (EDA) dalam delapan minggu silabus. Penilaian terdiri dari Ujian Tengah Semester (30 %), Ujian Akhir Semester (30 %), Quiz (15 %), dan Proyek (25 %). Sumber daya tambahan meliputi website resmi kursus, forum diskusi, dan perwakilan kelas.
